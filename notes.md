@@ -22,3 +22,15 @@ with parentheses".
 ## Open LazyGit
 
 <leader> gg
+
+## Navigate quickly inside a file
+
+s <begining_of_the_word> + <letter_shown>
+
+## Go to definition of a function
+
+gd
+
+## Move between buffers
+
+L, H
